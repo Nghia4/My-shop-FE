@@ -1,0 +1,12 @@
+.mainHomePage {
+    padding: 0 120px;
+}
+
+#container {
+    padding: 0 120px;
+}
+
+.moreButton {
+    display: flex;
+    justify-content: center;
+}
